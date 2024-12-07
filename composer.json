@@ -13,7 +13,7 @@
     "extra": {
       "laravel": {
         "providers": [
-          "Razen\\CategoryModule\\Providers\\CategoryModuleServiceProvider"
+          "Razen\\Category_Module\\Providers\\CategoryModuleServiceProvider"
         ]
       }
     }
