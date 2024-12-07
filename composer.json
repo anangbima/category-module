@@ -1,18 +1,12 @@
 {
     "name": "razen/category_module",
-    "description": "Deskripsi",
-    "type": "project",
+    "description": "Deskripsi nih",
+    "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
             "Razen\\CategoryModule\\": "src/"
         }
     },
-    "authors": [
-        {
-            "name": "Anang",
-            "email": "anangbima11@gmail.com"
-        }
-    ],
     "require": {}
 }
