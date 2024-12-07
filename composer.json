@@ -3,7 +3,7 @@
     "description": "A category module for Laravel with model and migration.",
     "autoload": {
       "psr-4": {
-        "Razen\\CategoryModule\\": "src/"
+        "Razen\\Category_Module\\": "src/"
       }
     },
     "require": {
