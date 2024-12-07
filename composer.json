@@ -1,0 +1,20 @@
+{
+    "name": "razen/category-module",
+    "description": "A category module for Laravel with model and migration.",
+    "autoload": {
+      "psr-4": {
+        "Razen\\CategoryModule\\": "src/"
+      }
+    },
+    "require": {
+      "php": "^8.1",
+      "illuminate/database": "^11.0"
+    },
+    "extra": {
+      "laravel": {
+        "providers": [
+          "Razen\\CategoryModule\\Providers\\CategoryModuleServiceProvider"
+        ]
+      }
+    }
+  }
